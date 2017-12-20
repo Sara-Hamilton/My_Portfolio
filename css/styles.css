@@ -21,6 +21,14 @@ body,
     text-align: left;
     background-color: white;
     color: orange;
+    text-shadow: 2px 2px gray;
+}
+
+.project-heading {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4em;
+    text-align: left;
+    color: gray;
 }
 
 .project {
@@ -34,8 +42,16 @@ body,
     margin: 1rem;
 }
 
+.description {
+    padding: 1rem 2rem;
+}
+
 .language {
     background-color: gainsboro;
+}
+
+.btn {
+    margin: 0 0.5rem;
 }
 
 img {
