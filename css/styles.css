@@ -1,9 +1,9 @@
 /* projects by number
 1 - MoneyMinder
 2 - JustinThyme
-3 - Blogz
-4 - Web-Caesar
-5 - HTML-me-something
+3 - blogz
+4 - web-caesar
+5 - html-me-something
 */
 
 html,
@@ -36,6 +36,7 @@ body,
     border-bottom: darkgray;
     padding: 1em;
     text-align: center;
+    border: 1em solid lightgray;
 }
 
 .col {
@@ -60,9 +61,21 @@ img {
 }
 
 #title1 {
-    border-bottom: 6px solid red;
+    border-bottom: 6px solid #518989;
 }
 
 #title2 {
     border-bottom: 6px solid #2dcf5a;
+}
+
+#title3 {
+    border-bottom: 6px solid #d6ae6b;
+}
+
+#title4 {
+    border-bottom: 6px solid #9e3232;
+}
+
+#title5 {
+    border-bottom: 6px solid #98b6b1;
 }
