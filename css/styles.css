@@ -1,0 +1,52 @@
+/* projects by number
+1 - MoneyMinder
+2 - JustinThyme
+3 - Blogz
+4 - Web-Caesar
+5 - HTML-me-something
+*/
+
+html,
+body,
+.container-fluid {
+    margin: 0;
+    padding: 0;
+    background-color: lightgray;
+}
+
+.name {
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 6em;
+    text-align: left;
+    background-color: white;
+    color: orange;
+}
+
+.project {
+    background-color: white;
+    border-bottom: darkgray;
+    padding: 1em;
+    text-align: center;
+}
+
+.col {
+    margin: 1rem;
+}
+
+.language {
+    background-color: gainsboro;
+}
+
+img {
+    text-align: center;
+    padding: 0 0 1rem 0;
+}
+
+#title1 {
+    border-bottom: 6px solid red;
+}
+
+#title2 {
+    border-bottom: 6px solid #2dcf5a;
+}
