@@ -30,7 +30,7 @@ footer {
 
 .name,
 .intro,
-.title {
+.section-title {
     text-align: left;
     padding-left: 50px;
 }
@@ -44,7 +44,12 @@ footer {
     text-align: center;
 }
 
-.title {
+.projects,
+.experience {
+    padding: 3rem 0 8rem 0;
+}
+
+.section-title {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 4em;
     color: gray;
@@ -56,6 +61,12 @@ footer {
     padding: 1em;
     text-align: center;
     border: 1em solid lightgray;
+}
+
+.separator {
+    background-color: lightgray;
+    padding: 0.5rem 0rem;
+    margin: 0 -1rem 1rem -1rem;
 }
 
 .col {
@@ -97,4 +108,8 @@ img {
 
 #title5 {
     border-bottom: 6px solid #98b6b1;
+}
+
+.experience {
+    background-color: white;
 }
