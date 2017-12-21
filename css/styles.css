@@ -16,7 +16,7 @@ body,
 
 footer {
     text-align: center;
-    background-color: gray;
+    background-color: darkgray;
 }
 
 .name {
@@ -123,4 +123,21 @@ img {
 
 .education-title {
     color: white;
+}
+
+.learned {
+    /* background-color: gray;
+    color: white; */
+    text-align: center;
+    /*padding: 1rem; */
+    margin-top: 2rem;
+    border-bottom: 2px solid #e99445;
+    font-weight: bold;
+}
+
+.learned-body {
+    background-color: gray;
+    color: white;
+    padding: 1rem;
+    border: 1rem solid white;
 }
