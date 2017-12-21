@@ -30,7 +30,8 @@ footer {
 
 .name,
 .intro,
-.section-title {
+.section-title,
+.education-title {
     text-align: left;
     padding-left: 50px;
 }
@@ -45,11 +46,13 @@ footer {
 }
 
 .projects,
-.experience {
+.experience,
+.education {
     padding: 3rem 0 8rem 0;
 }
 
-.section-title {
+.section-title,
+.education-title {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 4em;
     color: gray;
@@ -112,4 +115,12 @@ img {
 
 .experience {
     background-color: white;
+}
+
+.education {
+    background-color: gray;
+}
+
+.education-title {
+    color: white;
 }
