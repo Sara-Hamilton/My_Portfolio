@@ -25,7 +25,7 @@ footer {
     font-size: 6em;
     background-color: white;
     color: #e99445;
-    text-shadow: 2px 2px gray;
+    /* text-shadow: 2px 2px gray; */
 }
 
 .name,
