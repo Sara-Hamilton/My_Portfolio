@@ -46,7 +46,7 @@ a:hover,
 .name,
 .intro,
 .section-title,
-.education-title {
+.dark-section-title {
     text-align: left;
     padding-left: 50px;
 }
@@ -62,15 +62,24 @@ a:hover,
 
 .projects,
 .experience,
-.education {
+.education,
+.skills {
     padding: 3rem 0 8rem 0;
 }
 
 .section-title,
-.education-title {
+.dark-section-title {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 4em;
     color: gray;
+}
+
+.dark-section-title {
+    color: white;
+}
+
+.white-text {
+    color: white;
 }
 
 .project {
@@ -132,12 +141,13 @@ img {
     background-color: white;
 }
 
-.education {
+.education,
+.skills {
     background-color: gray;
 }
 
-.education-title {
-    color: white;
+ul {
+    list-style-type: none;
 }
 
 .learned {
