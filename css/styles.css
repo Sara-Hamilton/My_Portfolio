@@ -34,8 +34,7 @@ a:hover,
 }
 
 .name {
-    /* font-family: Arial, Helvetica, sans-serif; */
-    font-family: 'Archivo Black', sans-serif;
+    font-family: 'Archivo Black', Arial, Helvetica, sans-serif;
     font-size: 6em;
     background-color: white;
     color: #e99445;
@@ -52,13 +51,13 @@ a:hover,
 }
 
 .intro {
-    /* color: #444444; */
-    /*color: white;
-    background-color: #e99445; */
-    background-image: url(/images/tree.jpg);
+    color: white;
+    background-color: #e99445;
+    /* background: linear-gradient(rgba(233, 148, 69, 0.85), rgba(233, 148, 69, 0.85)), url("../images/tree.jpg");
+    background-position: center;
     background-size: cover;
-    background-repeat: no-repeat;
-    padding: 5rem 15%;
+    background-repeat: no-repeat; */
+    padding: 10rem 15%;
     font-size: 165%;
     text-align: center;
 }
