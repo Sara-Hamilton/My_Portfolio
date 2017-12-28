@@ -14,9 +14,23 @@ body,
     background-color: lightgray;
 }
 
+.navbar {
+    background-color: gray;
+}
+
 footer {
     text-align: center;
     background-color: darkgray;
+}
+
+.footer-link {
+    color: #444444;
+    padding: 0.5em;
+}
+
+a:hover,
+.footer-link:hover {
+    color: white;
 }
 
 .name {
