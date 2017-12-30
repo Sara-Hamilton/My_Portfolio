@@ -129,6 +129,10 @@ a:hover,
     height: 16rem;
 }
 
+.school-padding {
+    padding: 1.5rem 0 2.25rem 0;
+}
+
 .btn {
     margin: 0.5rem;
 }
