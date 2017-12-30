@@ -18,6 +18,10 @@ body,
     background-color: gray;
 }
 
+.navlink {
+    padding: 2rem;
+}
+
 footer {
     text-align: center;
     background-color: darkgray;
@@ -38,7 +42,7 @@ a:hover,
     font-size: 6em;
     background-color: white;
     color: #e99445;
-    padding: 2rem 0;
+    padding: 5rem 0 3rem 0;
     /* text-shadow: 2px 2px gray; */
 }
 
