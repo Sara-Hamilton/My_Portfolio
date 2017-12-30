@@ -18,8 +18,20 @@ body,
     background-color: gray;
 }
 
+.section {
+    position: relative;
+}
+
 .navlink {
-    padding: 2rem;
+    /* padding: 2rem; */
+    display: block;
+    position: absolute;
+    width: 0;
+    height: 0;
+    z-index: -1;
+    top: -3rem;
+    left: 0;
+    visibility: hidden;
 }
 
 footer {
@@ -42,7 +54,7 @@ a:hover,
     font-size: 6em;
     background-color: white;
     color: #e99445;
-    padding: 5rem 0 3rem 0;
+    padding: 5rem 0 2rem 0;
     /* text-shadow: 2px 2px gray; */
 }
 
@@ -70,7 +82,7 @@ a:hover,
 .experience,
 .education,
 .skills {
-    padding: 3rem 0 8rem 0;
+    padding: 1rem 0 5rem 0;
 }
 
 .section-title,
