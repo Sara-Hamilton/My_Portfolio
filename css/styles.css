@@ -18,19 +18,21 @@ body,
     background-color: gray;
 }
 
-.section {
+
+/*.section {
     position: relative;
-}
+} */
 
 .navlink {
-    display: block;
+    padding-top: 3rem;
+    /*display: block;
     position: absolute;
     width: 0;
     height: 0;
     z-index: -1;
     top: -3rem;
     left: 0;
-    visibility: hidden;
+    visibility: hidden;*/
 }
 
 footer {
