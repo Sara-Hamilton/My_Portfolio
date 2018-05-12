@@ -159,6 +159,10 @@ img {
   border-bottom: 6px solid #286090;
 }
 
+#title8 {
+  border-bottom: 6px solid rgba(16, 74, 102, 0.7);
+}
+
 .experience {
     background-color: white;
 }
