@@ -21,3 +21,25 @@ encryption program that takes a string of text and a number between 0 and 26 as 
 ### [html-me-something](https://github.com/Sara-Hamilton/html-me-something)  
 website showing places I have traveled  
 * HTML5, CSS3  
+--- 
+### [QuasiEtsy](https://github.com/Sara-Hamilton/quasi-etsy)  
+an imitation of the Etsy website  
+* JavaScript, Angular  
+---  
+### [StudyBuddy](https://github.com/Sara-Hamilton/study-buddy)  
+website for creating flashcards  
+* JavaScript  
+---  
+### [TicTacToe](https://github.com/Sara-Hamilton/tic-tac-toe)  
+tic-tac-toe game  
+* JavaScript  
+--- 
+### [Gummi Bears](https://github.com/Sara-Hamilton/GummIBears)  
+.NET MVC web app for a gummi bear vendor that allows visitors to review products  
+* C# .NET  
+---
+### [Rock Paper Scissors](https://github.com/Sara-Hamilton/RockPaperScissors)  
+.NET MVC app of a rock, paper, scissors game  
+* C# .NET  
+---
+
