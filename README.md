@@ -30,7 +30,7 @@ an imitation of the Etsy website
 website for creating flashcards  
 * JavaScript  
 ---  
-### [TicTacToe](https://github.com/Sara-Hamilton/tic-tac-toe)  
+### [Tic Tac Toe](https://github.com/Sara-Hamilton/tic-tac-toe)  
 tic-tac-toe game  
 * JavaScript  
 --- 
