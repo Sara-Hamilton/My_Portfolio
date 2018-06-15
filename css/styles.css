@@ -18,8 +18,11 @@ body,
     background-color: gray;
 }
 
-.navlink {
-    padding-top: 3rem;
+:target:before {
+content:"";
+display:block;
+height:56px;
+margin:-56px 0 0;
 }
 
 footer {
