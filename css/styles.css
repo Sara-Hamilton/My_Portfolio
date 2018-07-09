@@ -205,3 +205,8 @@ ul {
     padding: 1rem;
     border: 1rem solid white;
 }
+
+.left {
+  text-align: left;
+  padding: 0 20px;
+}
