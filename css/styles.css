@@ -22,6 +22,7 @@ body,
 .navbar {
     background-color: gray;
     border-bottom: 2px solid #e99445;
+    z-index: 3;
 }
 
 :target:before {
@@ -48,11 +49,18 @@ a:hover,
 
 .name {
     font-family: 'Archivo Black', Arial, Helvetica, sans-serif;
-    font-size: 6em;
+    font-size: 6rem;
     background-color: white;
     color: #e99445;
     padding: 5rem 0 2rem 0;
+    overflow: hidden;
+    z-index: 0;
     /* text-shadow: 2px 2px gray; */
+}
+
+.name-text {
+  position: relative;
+  z-index: 2;
 }
 
 .name,
@@ -63,6 +71,17 @@ a:hover,
     padding-left: 50px;
 }
 
+#self-portrait {
+  float: right;
+  height: 250px;
+  border-radius: 50%;
+  filter: grayscale(100%);
+  position: absolute;
+  bottom: 12em;
+  left: 60vw;
+  z-index: 1;
+}
+
 .intro {
     color: white;
     background-color: #e99445;
@@ -70,9 +89,14 @@ a:hover,
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat; */
-    padding: 8rem 15%;
+    padding: 6rem 15%;
     font-size: 165%;
-    text-align: center;
+    position: relative;
+}
+
+.intro-text {
+    position: relative;
+    z-index: 2;
 }
 
 .projects,
@@ -210,4 +234,28 @@ ul {
 .left {
   text-align: left;
   padding: 0 20px;
+}
+
+@media screen and (max-width: 767px) {
+  #self-portrait {
+    display: none;
+  }
+  .name {
+    font-size: 3rem;
+    padding-left: 2rem;
+  }
+  .intro {
+    padding: 2rem 10%;
+  }
+  .intro-text {
+    font-size: 1.3rem;
+  }
+  .section-title, .dark-section-title {
+    font-size: 2rem;
+    text-align: center;
+    padding: 0;
+  }
+  .projects, .experience, .education, .skills {
+    padding: 0;
+  }
 }
