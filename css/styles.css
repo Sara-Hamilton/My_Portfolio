@@ -77,7 +77,7 @@ a:hover,
   border-radius: 50%;
   filter: grayscale(100%);
   position: absolute;
-  bottom: 12em;
+  bottom: 10em;
   left: 60vw;
   z-index: 1;
 }
