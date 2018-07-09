@@ -21,6 +21,7 @@ body,
 
 .navbar {
     background-color: gray;
+    border-bottom: 2px solid #e99445;
 }
 
 :target:before {
