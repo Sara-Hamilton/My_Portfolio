@@ -236,6 +236,12 @@ ul {
   padding: 0 20px;
 }
 
+@media screen and (max-width: 950px) {
+  #self-portrait {
+    bottom: 13em;
+  }
+}
+
 @media screen and (max-width: 767px) {
   #self-portrait {
     display: none;
