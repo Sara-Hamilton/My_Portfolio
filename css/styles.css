@@ -48,14 +48,13 @@ a:hover,
 }
 
 .name {
-    font-family: 'Archivo Black', Arial, Helvetica, sans-serif;
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
     font-size: 6rem;
     background-color: white;
     color: #e99445;
-    padding: 5rem 0 2rem 0;
+    padding: 5rem 0 0rem 0;
     overflow: hidden;
     z-index: 0;
-    /* text-shadow: 2px 2px gray; */
 }
 
 .name-text {
