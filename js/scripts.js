@@ -10,13 +10,13 @@
 // smooth scroll to nav bar links
 $(function() {
     $('a[href*=\\#]:not([href=\\#])').click(function() {
-        var target = $(this.hash);
-        var navbar = document.getElementById("navBar");
-        var navbarHeight = $(navbar).height();
+        let target = $(this.hash).parent();
+        let navbar = document.getElementById("navBar");
+        let navbarHeight = $(navbar).height();
         target = target.length ? target : $('[name=' + this.hash.substr(1) +']');
         if (target.length) {
             $('html,body').animate({
-              scrollTop: target.offset().top - navbarHeight
+              scrollTop: target.offset().top - (navbarHeight + 32)
             }, 2000);
             return false;
         }

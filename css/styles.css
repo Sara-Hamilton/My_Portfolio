@@ -23,6 +23,7 @@ body,
     background-color: gray;
     border-bottom: 2px solid #e99445;
     z-index: 3;
+    opacity: .9;
 }
 
 :target:before {
@@ -52,7 +53,7 @@ a:hover,
     font-size: 6rem;
     background-color: white;
     color: #e99445;
-    padding: 5rem 0 0rem 0;
+    padding: 6rem 0 1rem 0;
     overflow: hidden;
     z-index: 0;
 }
@@ -261,6 +262,6 @@ ul {
     padding: 0;
   }
   .projects, .experience, .education, .skills {
-    padding: 0;
+    padding: 1rem;
   }
 }
