@@ -10,6 +10,10 @@ financial web app that allows people to create multiple accounts, unify data acr
 web app that reminds users when to plant seeds   
 * Java, Spring
 ---
+### [TapRoom](https://github.com/Sara-Hamilton/tap-room)    
+web app that monitors kegs in a tap room   
+* JavaScript, Angular
+---
 ### [blogz](https://github.com/Sara-Hamilton/blogz)  
 blog that requires login, verifies input, creates user session, and takes input from various users, sorts and displays entries, and stores entries in a database  
 * Python, Flask  
