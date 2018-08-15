@@ -3,7 +3,7 @@
 2 - JustinThyme
 3 - TapRoom
 4 - blogz
-5 - web-caesar
+5 - caesar-cipher
 6 - html-me-something
 7 - Quasi Etsy
 8 - Study Buddy
@@ -238,7 +238,7 @@ img {
     background-color: white;
 }
 
-.education,
+/* .education, */
 .skills {
     background-color: gray;
 }

@@ -18,7 +18,7 @@ web app that monitors kegs in a tap room
 blog that requires login, verifies input, creates user session, and takes input from various users, sorts and displays entries, and stores entries in a database  
 * Python, Flask  
 ---
-### [web-caesar](https://github.com/Sara-Hamilton/web-caesar)  
+### [caesar-cipher](https://github.com/Sara-Hamilton/caesar-cipher)  
 encryption program that takes a string of text and a number between 0 and 26 as input and returns a string with all of the alpha characters rotated the specified number of spaces to the right of the alphabet  
 * Python, Flask  
 ---
