@@ -137,7 +137,6 @@ a:hover,
 }
 
 .flex-child {
-    width: 400px;
     background-color: white;
     background-color: #f8f9fa;
     text-align: center;
@@ -151,12 +150,6 @@ a:hover,
 
 .school {
   width: 350px;
-}
-
-.separator {
-    background-color: gray;
-    padding: 2px 0rem;
-    margin: 0 -1rem 1rem -1rem;
 }
 
 .col {
@@ -174,14 +167,6 @@ a:hover,
 .school-logo {
   background-color: white;
 }
-
-/* .test3 {
-  border: 2px solid red;
-} */
-
-/* .school-padding {
-    padding: 1.5rem 0 2.25rem 0;
-} */
 
 .btn {
     margin: 0.5rem;
