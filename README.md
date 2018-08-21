@@ -14,9 +14,9 @@ blog that requires login, verifies input, creates user session, and takes input 
 encryption program that takes a string of text and a number between 0 and 26 as input and returns a string with all of the alpha characters rotated the specified number of spaces to the right of the alphabet  
 * Python, Flask  
 ---
-### [html-me-something](https://github.com/Sara-Hamilton/html-me-something)  
-website showing places I have traveled  
-* HTML5, CSS3  
+### [TravelLog](https://github.com/Sara-Hamilton/TravelLog)  
+This is a website showing places I have traveled. For each location, there is a photo taken by me, a short summary of my trip, a comment about the local cuisine, the capital, currency, and language of the country, and some visitor tips.  
+* HTML5, CSS3, JavaScript  
 ---  
 ### [QuasiEtsy](https://github.com/Sara-Hamilton/quasi-etsy)  
 an imitation of the Etsy website  
