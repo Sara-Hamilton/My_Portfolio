@@ -19,23 +19,23 @@ This is a website showing places I have traveled. For each location, there is a 
 * HTML5, CSS3, JavaScript  
 ---  
 ### [QuasiEtsy](https://github.com/Sara-Hamilton/quasi-etsy)  
-an imitation of the Etsy website  
+an imitation of the Etsy website with full CRUD (create, read, update, delete) functionality and the ability to filter listings by category   
 * JavaScript, Angular  
 ---
 ### [Gummi Bears](https://github.com/Sara-Hamilton/GummIBears)  
-.NET MVC web app for a gummi bear vendor that allows visitors to review products  
+.NET MVC web app for a gummi bear vendor with full CRUD (create, read, update, delete) functionality that allows visitors to review products  
 * C# .NET  
 ---  
 ### [JustinThyme](https://github.com/Sara-Hamilton/JustinThyme)    
-web app that reminds users when to plant seeds   
+web app that uses the Twilio API to send texts to users reminding them when it is time to plant specific seeds based on their chosen seeds and their specified location    
 * Java, Spring
 ---
 ### [TapRoom](https://github.com/Sara-Hamilton/tap-room)    
-web app that monitors kegs in a tap room   
+web app that monitors kegs in a tap room with full CRUD (create, read, update, delete) functionality, the ability to sort beers based on price and alcohol content, the ability to view low kegs, and the ability to quickly and easily replace kegs    
 * JavaScript, Angular
 ---
 ### [StudyBuddy](https://github.com/Sara-Hamilton/study-buddy)  
-website for creating flashcards  
+website for creating flashcards that allows the user to create, sort, and view flash cards by subject and category  
 * JavaScript  
 ---  
 ### [Tic Tac Toe](https://github.com/Sara-Hamilton/tic-tac-toe)  
