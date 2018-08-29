@@ -1,5 +1,5 @@
 # My_Portfolio
-[website](https://rawgit.com/Sara-Hamilton/My_Portfolio/master/) displaying my projects and education -  links to github repositories and demo sites are included if available
+[Portfolio website](https://rawgit.com/Sara-Hamilton/My_Portfolio/master/) displaying my projects and education -  links to github repositories and demo sites are included if available
 
 # Projects
 ### [MoneyMinder.Net](https://github.com/Sara-Hamilton/MoneyMinder.Net)
