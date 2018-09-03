@@ -283,6 +283,9 @@ ul {
 }
 
 @media screen and (max-width: 420px) {
+  .card-body {
+    padding: 0.5rem;
+    }
   .school-logo {
     width: 50vw;
   }
