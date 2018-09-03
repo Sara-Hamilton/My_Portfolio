@@ -168,7 +168,7 @@ a:hover,
     background-color: gainsboro;
 }
 
-.school-logo {
+.school-logo-section {
   background-color: white;
 }
 
@@ -262,6 +262,9 @@ ul {
   #self-portrait {
     display: none;
   }
+  .project, .school {
+    width: auto;
+  }
   .name {
     font-size: 3rem;
     padding-left: 2rem;
@@ -277,7 +280,10 @@ ul {
     text-align: center;
     padding: 0;
   }
-  .projects, .experience, .education, .skills {
-    padding: 1rem;
+}
+
+@media screen and (max-width: 420px) {
+  .school-logo {
+    width: 50vw;
   }
 }
