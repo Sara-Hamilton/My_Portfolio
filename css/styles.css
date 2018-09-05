@@ -77,7 +77,7 @@ a:hover,
   border-radius: 50%;
   filter: grayscale(100%);
   position: absolute;
-  bottom: 10em;
+  bottom: 12em;
   left: 60vw;
   z-index: 1;
 }
@@ -177,7 +177,7 @@ a:hover,
     margin: 0.5rem;
 }
 
-img {
+.school-logo {
     text-align: center;
     padding: 0 0 1rem 0;
 }
