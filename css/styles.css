@@ -92,6 +92,7 @@ a:hover,
     padding: 6rem 15%;
     font-size: 150%;
     position: relative;
+    background-attachment: fixed;
 }
 
 .intro-text {
