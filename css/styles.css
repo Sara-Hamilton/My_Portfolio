@@ -162,11 +162,12 @@ a:hover,
 }
 
 .description {
-    padding: 1rem 0rem;
+    padding: 1rem 0 0 0;
 }
 
 .language {
     background-color: gainsboro;
+    margin: 0 1.25rem;
 }
 
 .school-logo-section {
@@ -174,7 +175,19 @@ a:hover,
 }
 
 .btn {
-    margin: 0.5rem;
+    margin: 1rem 0.5rem 0.5rem 0.5rem;
+    width: 40%;
+}
+
+.card-footer {
+   padding: 0;
+   padding-bottom: 0.5rem;
+   background-color: inherit;
+   border-top: none;
+}
+
+.card-body {
+  padding-bottom: 0;
 }
 
 .school-logo {
@@ -211,15 +224,15 @@ a:hover,
 }
 
 #title8 {
-  border-bottom: 6px solid #999ac6;
+   border-bottom: 6px solid #999ac6;
 }
 
 #title9 {
-  border-bottom: 6px solid #286090;
+   border-bottom: 6px solid #286090;
 }
 
 #title10 {
-  border-bottom: 6px solid rgba(16, 74, 102, 0.7);
+   border-bottom: 6px solid rgba(16, 74, 102, 0.7);
 }
 
 .experience {
@@ -246,11 +259,12 @@ ul {
     background-color: gray;
     color: white;
     padding: 1rem;
+    margin: 20px;
 }
 
 .left {
-  text-align: left;
-  padding: 0 20px;
+   text-align: left;
+   padding: 0 20px;
 }
 
 @media screen and (max-width: 950px) {
@@ -289,5 +303,9 @@ ul {
     }
   .school-logo {
     width: 50vw;
+  }
+  .btn {
+    width: 80%;
+    margin: 0.2rem;
   }
 }
