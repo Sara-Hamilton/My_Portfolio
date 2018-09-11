@@ -26,6 +26,27 @@ body,
     opacity: .9;
 }
 
+.nav li span, footer span {
+   display: none;
+}
+
+.nav a, footer a {
+   display: inline-block;
+   text-decoration: none;
+}
+
+.nav a:hover svg, footer a:hover svg {
+    display: none;
+}
+.nav a:hover span, footer a:hover span {
+    display: block;
+}
+
+a:hover {
+    text-decoration: none;
+    padding-bottom: 1rem;
+}
+
 :target:before {
 content:"";
 display:block;
