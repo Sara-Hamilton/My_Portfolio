@@ -44,7 +44,6 @@ body,
 
 a:hover {
     text-decoration: none;
-    padding-bottom: 1rem;
 }
 
 :target:before {
