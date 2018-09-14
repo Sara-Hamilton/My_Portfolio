@@ -1,14 +1,15 @@
 /* projects by number
 1 - MoneyMinder.Net
 2 - blogz
-3 - caesar-cipher
-4 - html-me-something
-5 - Quasi Etsy
-6 - Gummi Bears
-7 - JustinThyme
-8 - TapRoom
-9 - Study Buddy
-10 - Tic Tac Toe
+3 - Doctor Lookup
+4 - caesar-cipher
+5 - html-me-something
+6 - Quasi Etsy
+7 - Gummi Bears
+8 - JustinThyme
+9 - TapRoom
+10 - Study Buddy
+11 - Tic Tac Toe
 */
 
 html,
@@ -224,34 +225,38 @@ a:hover,
 }
 
 #title3 {
-    border-bottom: 6px solid #9e3232;
+  border-bottom: 6px solid #3f827b;
 }
 
 #title4 {
-    border-bottom: 6px solid #98b6b1;
+    border-bottom: 6px solid #9e3232;
 }
 
 #title5 {
-    border-bottom: 6px solid #F56400;
+    border-bottom: 6px solid #98b6b1;
 }
 
 #title6 {
-    border-bottom: 6px solid #9932CC;
+    border-bottom: 6px solid #F56400;
 }
 
 #title7 {
-    border-bottom: 6px solid #2dcf5a;
+    border-bottom: 6px solid #9932CC;
 }
 
 #title8 {
-   border-bottom: 6px solid #999ac6;
+    border-bottom: 6px solid #2dcf5a;
 }
 
 #title9 {
-   border-bottom: 6px solid #286090;
+   border-bottom: 6px solid #999ac6;
 }
 
 #title10 {
+   border-bottom: 6px solid #286090;
+}
+
+#title11 {
    border-bottom: 6px solid rgba(16, 74, 102, 0.7);
 }
 

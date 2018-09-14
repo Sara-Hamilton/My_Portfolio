@@ -10,6 +10,10 @@ financial web app that allows people to create multiple accounts, unify data acr
 blog that requires login, verifies input, creates user session, and takes input from various users, sorts and displays entries, and stores entries in a database  
 * Python, Flask
 ---  
+### [Doctor Lookup](https://github.com/Sara-Hamilton/doctor-lookup)  
+web app that uses the Better Doctor API to search for Doctors in the Portland area by name or medical condition  
+* JavaScript, Node.JS
+---
 ### [caesar-cipher](https://github.com/Sara-Hamilton/caesar-cipher)  
 encryption program that takes a string of text and a number between 0 and 26 as input and returns a string with all of the alpha characters rotated the specified number of spaces to the right of the alphabet  
 * Python, Flask  
