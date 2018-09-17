@@ -119,6 +119,7 @@ a:hover,
 .intro-text {
     position: relative;
     z-index: 2;
+    width: 795px;
 }
 
 .projects,
@@ -291,6 +292,12 @@ ul {
 .left {
    text-align: left;
    padding: 0 20px;
+}
+
+@media screen and (max-width: 1150px) {
+  .intro-text {
+    width: auto;
+  }
 }
 
 @media screen and (max-width: 950px) {
