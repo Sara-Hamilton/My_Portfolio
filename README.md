@@ -42,6 +42,10 @@ web app that monitors kegs in a tap room with full CRUD (create, read, update, d
 website for creating flashcards that allows the user to create, sort, and view flash cards by subject and category  
 * JavaScript  
 ---  
+### [SpaceJanitor](https://github.com/mikealbers/Space-Janitor)  
+multiplayer text adventure game set on a space station   
+* JavaScript, Angular  
+---
 ### [Tic Tac Toe](https://github.com/Sara-Hamilton/tic-tac-toe)  
 tic-tac-toe game  
 * JavaScript  
