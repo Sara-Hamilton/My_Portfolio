@@ -127,7 +127,7 @@ a:hover,
 .experience,
 .education,
 .skills {
-    padding: 1rem 0 5rem 0;
+    padding: 2rem 0 5rem 0;
 }
 
 .section-title,
@@ -164,7 +164,7 @@ a:hover,
     background-color: white;
     background-color: #f8f9fa;
     text-align: center;
-    margin: 0 5px 20px 0;
+    margin: 25px 5px 25px 0;
     box-shadow: 3px 3px 6px 3px #888888;
 }
 
