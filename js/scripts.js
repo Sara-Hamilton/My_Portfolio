@@ -16,7 +16,7 @@ $(function() {
         target = target.length ? target : $('[name=' + this.hash.substr(1) +']');
         if (target.length) {
             $('html,body').animate({
-              scrollTop: target.offset().top - (navbarHeight + 32)
+              scrollTop: target.offset().top - (navbarHeight + 28)
             }, 2000);
             return false;
         }
